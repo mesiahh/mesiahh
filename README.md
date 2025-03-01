@@ -1,21 +1,16 @@
 ## Hi there ♙
 
-just your average BS Computer Science Student who's a little bit into everything.
+the name's Laurenz Palanas. just your average BS Computer Science Student who's a little bit into everything.
 
-📝Currently Learning:
-- 2nd Year Student pako
-  
+📝Currently Learning C, Mobile Development, Web Development, AI, Machine Learning, Data Analytics
 
 🔭 Projects I’m currently working on:
+- My degree
 - Alberto's Mobile App
-https://github.com/mesiahh/mobile-dev-albertos
-- Term Paper
+- Google Assistant Emulation
+- NodeStack
+
   
-
-
-
-
-
 ✨ Interests:
 - AI
 - Machine Learning

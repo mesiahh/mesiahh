@@ -9,6 +9,8 @@ just your average BS Computer Science Student who's a little bit into everything
 🔭 Projects I’m currently working on:
 - Alberto's Mobile App
 https://github.com/mesiahh/mobile-dev-albertos
+- Term Paper
+  
 
 
 

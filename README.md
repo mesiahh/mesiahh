@@ -14,14 +14,14 @@ https://github.com/mesiahh/mobile-dev-albertos
 
 
 
-Interests:
+✨ Interests:
 - AI
 - Machine Learning
 - Full Stack Development
 
 
 
-- 📫 contact info: ...
+📫 contact info:
 | [<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/laurenz-mesiah-a-palanas-665854209/) |  
 
 

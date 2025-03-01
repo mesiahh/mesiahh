@@ -2,7 +2,10 @@
 
 the name's Laurenz Palanas. just your average BS Computer Science student who's a little bit into everything.
 
-📝Currently Learning Data Structures, Mobile Development, Web Development, AI, Machine Learning, Data Analytics
+📝Currently Learning 
+- Data Structures
+- Mobile Development, Web Development
+- AI, Machine Learning, Data Analytics
 
 🔭 Projects I’m currently working on:
 - My degree

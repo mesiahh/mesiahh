@@ -1,6 +1,6 @@
 ## Hi there ♙
 
-the name's Laurenz Palanas. just your average BS Computer Science Student who's a little bit into everything.
+the name's Laurenz Palanas. just your average BS Computer Science student who's a little bit into everything.
 
 📝Currently Learning Data Structures, Mobile Development, Web Development, AI, Machine Learning, Data Analytics
 

@@ -22,8 +22,8 @@ https://github.com/mesiahh/mobile-dev-albertos
 
 
 📫 contact info:
-| [<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/laurenz-mesiah-a-palanas-665854209/) |  
-| :---:         |     :---:      |    
+
+[<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/laurenz-mesiah-a-palanas-665854209/) 
 
 <!--
 **mesiahh/mesiahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

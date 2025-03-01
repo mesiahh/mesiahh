@@ -1,4 +1,29 @@
-## Hi there 👋
+## Hi there ♙
+
+just your average BS Computer Science Student who's a little bit into everything.
+
+📝Currently Learning:
+- 2nd Year Student pako
+  
+
+🔭 Projects I’m currently working on:
+- Alberto's Mobile App
+https://github.com/mesiahh/mobile-dev-albertos
+
+
+
+
+
+Interests:
+- AI
+- Machine Learning
+- Full Stack Development
+
+
+
+- 📫 contact info: ...
+| [<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/laurenz-mesiah-a-palanas-665854209/) |  
+
 
 <!--
 **mesiahh/mesiahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

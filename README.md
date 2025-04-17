@@ -10,6 +10,7 @@ the name's Laurenz Palanas. just your average BS Computer Science student who's 
 🔭 Projects I’m currently working on:
 - My degree
 - Alberto's Mobile App
+- Ayo-Ayo Farm Web
 - Google Assistant Emulation
 - NodeStack
 
